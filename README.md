@@ -22,9 +22,3 @@ SplitMate is a Java console application for managing group expenses and tracking
 - `GroupManager.java` — manages groups (create, search, edit, delete)  
 - `TrackPayment.java` — handles contributions, balances, and payment tracking  
 - `Utilities.java` — helper methods (clear screen, menus, delays)  
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/encihh/SplitMate.git
-   cd SplitMate/src
